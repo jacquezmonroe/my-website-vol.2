@@ -1,0 +1,8 @@
+{
+  "headers": [
+    {
+      "source": "/projects.json",
+      "headers": [{ "key": "Access-Control-Allow-Origin", "value": "*" }]
+    }
+  ]
+}
