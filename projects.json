@@ -4,26 +4,26 @@
     "description": "A React + Vite rebuild of the classic game with 2-player and single-player modes. The unbeatable AI uses minimax game-tree search, with selectable difficulty tuned so easier levels miss winning moves without feeling random. Includes move history, full keyboard controls, and dark mode.",
     "tags": ["React", "Vite", "Minimax", "Vercel"],
     "link": "https://tic-tac-toe-react-sand-ten.vercel.app/",
-    "repoLink": "https://github.com/8fn4wf8phr-ops/tic-tac-toe-react"
+    "repoLink": "https://github.com/jacquezmonroe/tic-tac-toe-react"
   },
   {
     "name": "Calculator",
     "description": "A calculator with standard and scientific modes on one shared expression-parsing engine, a built-in unit converter, and a searchable calculation history with CSV export. Installable as an offline-capable PWA with LocalStorage persistence.",
     "tags": ["JavaScript", "PWA", "LocalStorage", "Vercel"],
     "link": "https://calculator-app-three-sand.vercel.app/",
-    "repoLink": "https://github.com/8fn4wf8phr-ops/calculator-app"
+    "repoLink": "https://github.com/jacquezmonroe/calculator-app"
   },
   {
     "name": "Weather App",
     "description": "A weather app with debounced live city search and autocomplete, geolocation lookup, current conditions, and a 5-day forecast, powered by the Open-Meteo API (no key required). Suggestions include country and region to disambiguate cities that share a name.",
     "tags": ["JavaScript", "Open-Meteo API", "Debounced search", "Vercel"],
     "link": "https://weather-app-orcin-one.vercel.app/",
-    "repoLink": "https://github.com/8fn4wf8phr-ops/weather-app"
+    "repoLink": "https://github.com/jacquezmonroe/weather-app"
   },
   {
     "name": "Tally",
     "description": "A privacy-first native iOS app for medication and daily-routine reminders: no accounts, no cloud sync, nothing leaves the device. Built with Capacitor wrapping a vanilla HTML/CSS/JS app, bundled with Vite, and running in the iOS Simulator via Xcode.",
     "tags": ["Capacitor", "Vite", "iOS", "Vanilla JS"],
-    "repoLink": "https://github.com/8fn4wf8phr-ops/Tally"
+    "repoLink": "https://github.com/jacquezmonroe/Tally"
   }
 ]
